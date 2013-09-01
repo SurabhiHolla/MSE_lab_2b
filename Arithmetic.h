@@ -1,6 +1,6 @@
 #import<Foundation/Foundation.h>
 
-@interface Add:NSObject
+@interface Arithmetic:NSObject
 {
 float a;
 float b;
